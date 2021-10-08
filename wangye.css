@@ -1,6 +1,7 @@
 body{
   background-color:blue;
+  width：800px;
 }
-h1{
+*{
   color:yellow;
 }

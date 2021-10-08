@@ -2,11 +2,15 @@
 <html lang="zh-cn">
     <head>
         <meta charset="utf-8"/>
-        <title>我的第一个网页</title>
+        <title>陈小明的成长经历</title>
        <link rel="stylesheet" type="text/css" href="wangye.css"/>
     </head>
     <body>
-        <h1>这是一个一级标题</h1>
-        <p>这是一个段落.</p >
+        <h2>小学</h2>
+        <p>罕台新教育实验小学</p>
+        <h2>初中</h2>
+        <p>东胜区华研中学</p>
+        <h2>高中</h2>
+        <p>鄂市一中</p>
     </body>
 </html>

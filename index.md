@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <title>陈小明的成长经历</title>
-      <link href="新建文本文档.css"rel="stylesheet" type="text/css"/>
+      <link href="新建文本文档 .css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
         <h1>这是一个一级标题</h1>

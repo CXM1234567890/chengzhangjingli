@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <title>陈小明的成长经历</title>
-       <link rel="stylesheet" type="text/css" href="wangye.css"/>
+     <link rel="stylesheet" type="text/css" href="wangye.css">
     </head>
     <body>
         <h2>小学</h2>
